@@ -1,0 +1,1 @@
+worker: python nvsu_bot_ng.py

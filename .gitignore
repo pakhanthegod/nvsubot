@@ -1,0 +1,9 @@
+config.json
+table_parser.py
+table.docx
+.vscode
+.nvsubot
+nvsu_bot_ng.py
+nvsu_bot_ptb.py
+ex.py
+__pycache__
